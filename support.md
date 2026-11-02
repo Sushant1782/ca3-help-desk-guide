@@ -1,2 +1,2 @@
-Contact page: /old-contact
-Opens at: 10:00
+Contact/ 2344455567
+Opening-Time: 9:00
